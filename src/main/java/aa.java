@@ -1,4 +1,7 @@
 
 public class aa {
-  system.out.prilnt("");
+  private void sysout() {
+	// TODO Auto-generated method stub
+
+}
 }
