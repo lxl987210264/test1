@@ -2,6 +2,7 @@
 public class aa {
   private void sysout2() {
 	// TODO Auto-generated method stub
-    System.out.println("¡£¡£¡£¡£¡£¡£¡£¡£123");
+
+    System.out.println("Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£Â¡Â£1234");
 }
 }
